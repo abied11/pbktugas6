@@ -1,0 +1,15 @@
+/* src/assets/style.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Mengatur ke atas */
+  min-height: 100vh;
+  padding-top: 20px; /* Memberikan sedikit ruang dari atas */
+}
+
+#app {
+  width: 100%;
+}
